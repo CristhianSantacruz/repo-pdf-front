@@ -1,3 +1,8 @@
+
+![Screenshot (19)](https://github.com/CristhianSantacruz/repo-pdf-front/assets/117329019/1fdf8ae6-c21e-41ce-aac7-acaffeb68f9f)
+![Screenshot (20)](https://github.com/CristhianSantacruz/repo-pdf-front/assets/117329019/37f6bffb-97c1-44d9-b3e1-20db1a8a37da)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
